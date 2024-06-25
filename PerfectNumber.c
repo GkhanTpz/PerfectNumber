@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 
-void perfectNumber(int num);
+void PerfectNumber(int num);
 
 int main()
 {
@@ -14,7 +14,7 @@ int main()
     return 0;
 }
 
-void perfectNumber(int num)
+void PerfectNumber(int num)
 {
     int result = 0;
 
