@@ -9,7 +9,7 @@ int main()
     int num;
     printf("Please enter a integer: ");
     scanf("%d",&num);
-    perfectNumber(num);
+    PerfectNumber(num);
 
     return 0;
 }
