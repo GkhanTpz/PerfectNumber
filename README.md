@@ -1,5 +1,3 @@
----
-
 ### Perfect Number Checker in C
 
 This C program checks whether an input number is a **perfect number**. A **perfect number** is a number that is equal to the sum of its divisors, excluding itself. For example, 6 is a perfect number because its divisors (excluding 6 itself) are 1, 2, and 3, and their sum is 6.
